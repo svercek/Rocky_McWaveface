@@ -1,4 +1,4 @@
-```markdown
+markdown
 # 🪨 Rocky McWaveface: Tales from the Shore
 
 Welcome to the world of **Rocky McWaveface**, a one-ton jolly rock nestled on the North Carolina coast. This project brings to life the voice of a steadfast shoreline companion through a playful, character-driven interview that blends environmental appreciation, storytelling, and a touch of humor.
@@ -39,4 +39,3 @@ For questions, ideas, or collaborations, reach out via GitHub Issues or start a 
 ---
 
 > “I’m just happy to be here, soaking in the sun, waves, and all the stories the shore has to offer.” – Rocky McWaveface 😊
-```
